@@ -1,0 +1,1 @@
+So in this repositry i have created a rpg game where you will defeat the monsters. When you will enter the game then you will see a store, a cave and a town. You can earn money and experience by defeating the monseters and form that money you can buy health and weapons. 
